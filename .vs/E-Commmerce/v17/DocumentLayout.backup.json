@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\product\\userindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\product\\userindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\account\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\role\\_roleform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\role\\_roleform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\account\\_changephoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\account\\_changephoto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\viewmodels\\user\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\viewmodels\\user\\createuserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\viewmodels\\categoryimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\viewmodels\\categoryimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\category\\userindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\category\\userindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\category\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\category\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|c:\\users\\youss\\onedrive\\bureau\\projetdotnet\\e-commmerce-master\\e-commmerce\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754589EF-340F-4712-A86B-0B24AF5A0B62}|E-Commmerce\\E-Commmerce.csproj|solutionrelative:e-commmerce\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwDQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T01:25:56.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T01:25:52.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jquery.min.js",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeDocumentMoniker": "E-Commmerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "RelativeToolTip": "E-Commmerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAABv7AAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-26T01:23:45.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T01:21:59.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\ViewModels\\User\\CreateUserViewModel.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\ViewModels\\User\\CreateUserViewModel.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\ViewModels\\User\\CreateUserViewModel.cs",
+              "RelativeToolTip": "E-Commmerce\\ViewModels\\User\\CreateUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:54:25.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Role\\Edit.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Role\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Role\\Edit.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Role\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:26:49.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ChangePhoto.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Account\\_ChangePhoto.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Account\\_ChangePhoto.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Account\\_ChangePhoto.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Account\\_ChangePhoto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T00:41:06.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryImage.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\ViewModels\\CategoryImage.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\ViewModels\\CategoryImage.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\ViewModels\\CategoryImage.cs",
+              "RelativeToolTip": "E-Commmerce\\ViewModels\\CategoryImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:54:17.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "E-Commmerce\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAIA2wPkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:41:45.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T00:41:27.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T00:39:38.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Account\\Create.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Account\\Create.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Account\\Create.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Account\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T23:50:50.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Product\\UserIndex.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Product\\UserIndex.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Product\\UserIndex.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Product\\UserIndex.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:26:49.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T00:41:22.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T01:11:27.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T00:43:21.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T01:11:31.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Role\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T00:44:27.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T00:43:54.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T00:43:57.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_RoleForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Role\\_RoleForm.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Role\\_RoleForm.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Role\\_RoleForm.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Role\\_RoleForm.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T00:44:13.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "E-Commmerce\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAADgv0YAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:42:20.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Models\\Roles.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:17:43.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:17:41.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Models\\Category.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:17:40.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Commmerce\\appsettings.json",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\appsettings.json",
+              "RelativeToolTip": "E-Commmerce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T16:47:57.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Program.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Program.cs",
+              "RelativeToolTip": "E-Commmerce\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:26:48.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Data\\ApplicationDbcontext.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Data\\ApplicationDbcontext.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Data\\ApplicationDbcontext.cs",
+              "RelativeToolTip": "E-Commmerce\\Data\\ApplicationDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:26:49.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:26:49.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Models\\Product.cs",
+              "RelativeToolTip": "E-Commmerce\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:17:42.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "E-Commmerce\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "E-Commmerce\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:22:35.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "E-Commmerce\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\appsettings.Development.json",
+              "RelativeToolTip": "E-Commmerce\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T16:54:48.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:26:49.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ShowAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Category\\ShowAll.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Category\\ShowAll.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Category\\ShowAll.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Category\\ShowAll.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:26:49.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Category\\UserIndex.cshtml",
+              "RelativeDocumentMoniker": "E-Commmerce\\Views\\Category\\UserIndex.cshtml",
+              "ToolTip": "C:\\Users\\youss\\OneDrive\\Bureau\\projetdotnet\\E-Commmerce-master\\E-Commmerce\\Views\\Category\\UserIndex.cshtml",
+              "RelativeToolTip": "E-Commmerce\\Views\\Category\\UserIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:26:49.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
